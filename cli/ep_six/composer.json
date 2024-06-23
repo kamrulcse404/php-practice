@@ -1,0 +1,17 @@
+{
+    "name": "kamrul/ep_six",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kamrulcse404",
+            "email": "kamrul.h01960@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+}

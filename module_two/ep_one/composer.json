@@ -1,0 +1,12 @@
+{
+    "autoload" : {
+        "psr-4": {
+            "Kamrul\\" : "app/"
+        },
+
+        "files": ["helpers/helper.php"]
+    },
+    "require": {
+        "ramsey/uuid": "^4.7"
+    }
+}
