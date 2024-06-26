@@ -1,0 +1,3 @@
+name, age, email
+Kamrul Hasan, 28, kamrulcse43@gmail.com
+Raisa Jahan, 19, raise06@gmail.com

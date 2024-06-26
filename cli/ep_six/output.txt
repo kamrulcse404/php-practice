@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Kamrul Hasan",
+        " age": " 28",
+        " email": " kamrulcse43@gmail.com"
+    },
+    {
+        "name": "Raisa Jahan",
+        " age": " 19",
+        " email": " raise06@gmail.com"
+    }
+]
